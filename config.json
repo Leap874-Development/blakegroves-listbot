@@ -1,0 +1,20 @@
+{
+	"prefix": "list!",
+	"wrap_length": 25,
+
+	"embed_colors": {
+		"success": [52, 235, 73],
+		"info": [50, 67, 125],
+		"error": [171, 17, 17]
+	},
+
+	"commands": {
+		"new_list":       "new",
+		"delete_list":    "delete",
+		"add_member":     "add",
+		"remove_member":  "remove",
+		"clear_position": "clear",
+		"view_list":      "view",
+		"see_all":        "all"
+	}
+}
